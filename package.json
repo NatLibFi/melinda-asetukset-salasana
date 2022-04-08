@@ -61,7 +61,7 @@
     "materialize-css": "^0.100.2",
     "marc-record-js": "^0.3.2",
     "mkdirp": "^0.5.1",
-    "moment": "^2.19.3",
+    "moment": "^2.29.2",
     "object-assign": "^4.1.1",
     "uuid": "^3.1.0",
     "winston": "^2.4.0",
