@@ -56,12 +56,12 @@ export class NavBar extends React.Component {
     const { username, appTitle } = this.props;
 
     return (
-    <div className="navbar-fixed">
+      <div className="navbar-fixed">
         <nav> 
           <div className="nav-wrapper">
             <img 
-             className="mt-logo left" 
-             src={melindaLogo}
+              className="mt-logo left" 
+              src={melindaLogo}
             />
             <ul id="nav" className="left">
               <li className="heading">{appTitle}</li>
@@ -71,7 +71,7 @@ export class NavBar extends React.Component {
                 <a
                   className="dropdown-navbar dropdown-button-menu" 
                   href="#" data-activates="mainmenu">
-                   <i className="material-icons">account_circle</i>
+                  <i className="material-icons">account_circle</i>
                 </a>
               </li>
             </ul>

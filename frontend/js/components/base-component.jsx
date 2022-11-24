@@ -65,9 +65,9 @@ export class BaseComponent extends React.Component {
     return (
       <div>
         <NavBar 
-        username={firstName}
-        appTitle='Salasanan vaihto'
-        removeSession={this.props.removeSession}
+          username={firstName}
+          appTitle='Salasanan vaihto'
+          removeSession={this.props.removeSession}
         />
         <ChangePasswordFormPanel onSave={this.executeSave.bind(this)} removeSession={this.props.removeSession} state={this.props.state} error={this.props.error} />
       </div>
