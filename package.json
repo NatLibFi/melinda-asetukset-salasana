@@ -96,7 +96,7 @@
     "file-loader": "^1.1.5",
     "iso9_1995": "0.0.2",
     "js-cookie": "^2.2.0",
-    "jsdom": "^11.5.1",
+    "jsdom": "^16.5.0",
     "json-loader": "^0.5.7",
     "mocha": "^4.0.1",
     "node-sass": "^4.7.2",
