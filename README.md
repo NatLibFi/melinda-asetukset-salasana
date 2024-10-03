@@ -1,3 +1,6 @@
+# ARCHIVED
+This repository is archaived. New version of Melinda salasana ui can be found [here](https://github.com/NatLibFi/melinda-ui-salasana)
+
 # UI for changing user's own password in Melinda [![Build Status](https://travis-ci.org/NatLibFi/melinda-asetukset-salasana.svg)](https://travis-ci.org/NatLibFi/melinda-asetukset-salasana) 
 
 ## Building the application
